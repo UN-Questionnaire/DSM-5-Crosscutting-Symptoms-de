@@ -50,7 +50,7 @@ Das Drucken / Herunterladen von Ergebnissen als PDF ist auf Android-Geräten sta
  
 #### Datenschutz
  Ein einzelner Session-Cookie wird während einer Sitzung auf einem Gerät/Browser temporär gespeichert (er verfällt nach 30 Minuten automatisch, wenn er nicht vorher gelöscht wird). 
-Es werden keine personenbezogenen Informationen erfasst und die Daten werden nur zur Validierung und Normierung des Fragebogens verwendet. [2](./Datenschutzhinweis)
+Es werden keine personenbezogenen Informationen erfasst und die Daten werden nur zur Validierung und Normierung des Fragebogens verwendet. [[Datenschutzhinweis]](./Datenschutzhinweis)
 	
 
 ### Weitere Entwicklung
@@ -65,7 +65,7 @@ Der *UN-Q Ultraefficient-Neuroscientific Questionnaire* ist ein allgemeines Scre
 
 ## Abhängigkeiten
 
-Dieses Projekt wurde großenteils mit formR erstellt. FormR ist ein auf R basierendes Software-Framework für die Erstellung von psychologischen-longitudinalen Fragebögen. Es wurde von Ruben Arslan an der Universität Oldenburg entwickelt und befindet sich in aktiver Entwicklung (zu Zeiten kann es zu kurzfristigen Unterbrechungen durch z.B. Softwareupdates kommen). Es ist ein äußerst gewissenhaftes Projekt, das dieses Projekt erst ermöglichte.  (Arslan, Walther & Tata, 2020)[1](1)
+Dieses Projekt wurde großenteils mit formR erstellt. FormR ist ein auf R basierendes Software-Framework für die Erstellung von psychologischen-longitudinalen Fragebögen. Es wurde von Ruben Arslan an der Universität Oldenburg entwickelt und befindet sich in aktiver Entwicklung (zu Zeiten kann es zu kurzfristigen Unterbrechungen durch z.B. Softwareupdates kommen). Es ist ein äußerst gewissenhaftes Projekt, das dieses Projekt erst ermöglichte.  (Arslan, Walther & Tata, 2020)[1]
 
 
 
