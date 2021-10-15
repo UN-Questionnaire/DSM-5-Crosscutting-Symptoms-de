@@ -18,7 +18,7 @@ Diese Online-Anpassung bietet eine automatisierte Ergebnisrückmeldung. Die Date
 ## Vorschau des Fragebogens
 Um eine höhere Datenqualität in realen Tests zu gewährleisten, steht eine Vorschauversion zur Verfügung:
 
- [DSM 5 Fragebogen zu Querschnittssymptomen - Neuer Preview- Test](https://dsm5symptoms-de-preview.formr.org) : https://dsm5symptoms-de-preview.formr.org
+ [Start Preview Test](https://dsm5symptoms-de-preview.formr.org) : https://dsm5symptoms-de-preview.formr.org
 
 
 ## Testen
@@ -29,7 +29,7 @@ Um eine höhere Datenqualität in realen Tests zu gewährleisten, steht eine Vor
 
 
 
-[DSM 5 Fragebogen zu Querschnittssymptomen - Start neuer Test](https://dsm5symptoms-de.formr.org) - https://dsm5symptoms-de.formr.org 
+[Start neuer Test](https://dsm5symptoms-de.formr.org) - https://dsm5symptoms-de.formr.org 
 
 
 
