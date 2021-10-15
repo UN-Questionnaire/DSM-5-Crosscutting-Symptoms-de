@@ -28,7 +28,7 @@ Um eine höhere Datenqualität in realen Tests zu gewährleisten, steht eine Vor
 
 
 
-[Start neuer Test : ](https://dsm5-symptoms-de.formr.org) https://dsm5symptoms-de.formr.org 
+[Start neuer Test : ](https://dsm5-symptoms-de.formr.org) https://dsm5-symptoms-de.formr.org 
 
 
 
