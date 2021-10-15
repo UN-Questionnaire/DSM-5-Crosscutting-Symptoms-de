@@ -65,7 +65,7 @@ Der *UN-Q Ultraefficient-Neuroscientific Questionnaire* ist ein allgemeines Scre
 
 ## Abhängigkeiten
 
-Dieses Projekt wurde großenteils mit formR erstellt. FormR ist ein auf R basierendes Software-Framework für die Erstellung von psychologischen-longitudinalen Fragebögen. Es wurde von Ruben Arslan an der Universität Oldenburg entwickelt und befindet sich in aktiver Entwicklung (zu Zeiten kann es zu kurzfristigen Unterbrechungen durch z.B. Softwareupdates kommen). Es ist ein äußerst gewissenhaftes Projekt, das dieses Projekt erst ermöglichte.  (Arslan, Walther & Tata, 2020)[1]
+Dieses Projekt wurde großenteils mit formR erstellt. FormR ist ein auf R basierendes Software-Framework für die Erstellung von psychologischen-longitudinalen Fragebögen. Es wurde von Ruben Arslan an der Universität Oldenburg entwickelt und befindet sich in aktiver Entwicklung (zu Zeiten kann es zu kurzfristigen Unterbrechungen durch z.B. Softwareupdates kommen). Es ist ein äußerst gewissenhaftes Projekt, das dieses Projekt erst ermöglichte.  (Arslan, Walther & Tata, 2020)[1](1)
 
 
 
@@ -75,7 +75,8 @@ Dieses Projekt wurde großenteils mit formR erstellt. FormR ist ein auf R basier
 ## Feedback und Bugs
 
 Probleme, Bugs oder Anregungen können über github gemeldet werden oder direkt per Email (un-questionnaire@outlook.com).
-#### Referenzen
+
+### Referenzen
 [1] Arslan, R.C., Walther, M.P. & Tata, C.S. formr: A study framework allowing for automated feedback generation and complex longitudinal experience-sampling studies using R. Behav Res 52, 376-387 (2020). https://doi.org/10.3758/s13428-019-01236-y
 
 
