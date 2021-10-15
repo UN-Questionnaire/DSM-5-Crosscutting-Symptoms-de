@@ -9,15 +9,14 @@ Dies ist eine inoffizielle Online-Adaption des DSM-5 Cross-Cutting Symptoms Scre
 Die Originalversion der American Psychiatric Association finden sich auf der [APA resources website](https://www.psychiatry.org/psychiatrists/practice/dsm/educational-resources/assessment-measures) und ist als Druckversion [PDF](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_Level-1-Measure-Adult.pdf) verfügbar.
 ### Einleitung
 
-Der DSM-5 CC-Symptome-Test ist als hocheffizientes Screening-Instrument konzipiert. Es besteht aus 23 Items, auf 13 Skalen/Domänen: *Depression, Aggression, Manie, Angst, somatische Symptome, Suizidalität, Psychose, Schlafprobleme, Gedächtnis, Wiederkehrende Gedanken und Verhalten, Dissoziation, Persönlichkeitsfunktionen, Substanzgebrauch*. Der DSM-5 CC Symptoms enthält Schwellenwerte sowie Empfehlungen für weitererführende Level-2 Untersuchungen. 
+Der DSM-5 CC-Symptome-Test ist als hocheffizientes Screening-Instrument konzipiert. Es besteht aus 23 Items, auf 13 Skalen/Domänen: *Depression, Aggression, Manie, Angst, somatische Symptome, Suizidalität, Psychose, Schlafprobleme, Gedächtnis, Wiederkehrende Gedanken und Verhalten, Dissoziation, Personal Functioning, Substanzgebrauch*. Der DSM-5 CC Symptoms enthält Schwellenwerte sowie Empfehlungen für weitererführende Level-2 Untersuchungen. 
 
 
 
 Diese Online-Anpassung bietet eine automatisierte Ergebnisrückmeldung. Die Daten werden nur zur Validierung und Normierung des Fragebogens verwendet und es werden keine persönlichen Informationen erfasst. 
 
 ## Vorschau des Fragebogens
-Um eine höhere Datenqualität in realen Tests zu gewährleisten, steht eine Vorschauversion zur Verfügung. Bitte benutzen Sie diese, wenn Sie nur einen Blick darauf werfen wollen:
-
+Um eine höhere Datenqualität in realen Tests zu gewährleisten, steht eine Vorschauversion zur Verfügung:
 
  [DSM 5 Fragebogen zu Querschnittssymptomen - Neuer Preview- Test](https://dsm5symptoms-de-preview.formr.org) : https://dsm5symptoms-de-preview.formr.org
 
