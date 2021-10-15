@@ -3,7 +3,7 @@
 
 
 
-# DSM-5 Crosscutting Symptoms (Erwachsene) - Deutsche Version
+# DSM-5 Crosscutting Symptoms (Erwachsene) - Deutsche Version. Sprache: [EN](https://github.com/UN-Questionnaire/DSM-5-Crosscutting-Symptoms-en) | DE
 
 Dies ist eine inoffizielle Online-Adaption des DSM-5 Cross-Cutting Symptoms Screening Questionnaire. 
 Die Originalversion der American Psychiatric Association finden sich auf der [APA resources website](https://www.psychiatry.org/psychiatrists/practice/dsm/educational-resources/assessment-measures) und ist als Druckversion [PDF](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_Level-1-Measure-Adult.pdf) verfügbar.
