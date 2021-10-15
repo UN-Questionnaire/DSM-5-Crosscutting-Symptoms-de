@@ -43,7 +43,7 @@ Um eine höhere Datenqualität in realen Tests zu gewährleisten, steht eine Vor
      
      
 
-Der *Sitzungslink / URL* ist die einzige Möglichkeit, auf eine einzelne Sitzung zuzugreifen und muss gespeichert werden, um diese zu einem späteren Zeitpunkt erneut aufrufen zu können. 
+Der generierte *Sitzungslink / URL* ist die einzige Möglichkeit, auf eine einzelne Sitzung zuzugreifen und muss gespeichert werden, um diese zu einem späteren Zeitpunkt erneut aufrufen zu können. 
 #### Hinweis für mobile Benutzer 
 Das Drucken / Herunterladen von Ergebnissen als PDF ist auf Android-Geräten standardmäßig deaktiviert.
  
