@@ -50,7 +50,7 @@ Das Drucken / Herunterladen von Ergebnissen als PDF ist auf Android-Geräten sta
  
 #### Datenschutz
  Ein einzelner Session-Cookie wird während einer Sitzung auf einem Gerät/Browser temporär gespeichert (er verfällt nach 30 Minuten automatisch, wenn er nicht vorher gelöscht wird). 
-Es werden keine personenbezogenen Informationen erfasst und die Daten werden nur zur Validierung und Normierung des Fragebogens verwendet. [[Datenschutzhinweis]](./Datenschutzhinweis)
+Es werden keine personenbezogenen Informationen erfasst und die Daten werden nur zur Validierung und Normierung des Fragebogens verwendet. [[2]](./Datenschutzhinweis)
 	
 
 ### Weitere Entwicklung
