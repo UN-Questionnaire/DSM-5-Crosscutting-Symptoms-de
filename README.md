@@ -82,3 +82,4 @@ Probleme, Bugs oder Anregungen können über github gemeldet werden oder direkt 
 Lutz, W. & Knox, S. (2013, 2015). Quantitative and Qualitative Methods in Psychotherapy Research. Behavioural Science Monograph Series. Oxford: Taylor and Francis. 
 
 
+![](https://hit.yhype.me/github/profile?user_id=40460830)
